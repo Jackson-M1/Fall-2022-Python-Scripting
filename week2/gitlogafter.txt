@@ -1,0 +1,5 @@
+commit 50ba95a48ad9e64e60ed03f8a8cff973dcc82423
+Author: iimckenney-matc <iimckenney@madisoncollege.edu>
+Date:   Tue Sep 6 13:46:39 2022 -0500
+
+    Initial commit of GitHub exercise
